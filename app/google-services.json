@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430188434371",
+    "firebase_url": "https://clipboard-2e2a0.firebaseio.com",
+    "project_id": "clipboard-2e2a0",
+    "storage_bucket": "clipboard-2e2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430188434371:android:82ca4d2f3c6a9eb0492376",
+        "android_client_info": {
+          "package_name": "com.example.clipboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430188434371-h2ucko9r90gdrsi8ngh6kn69obeki3en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQiJPRwRBnuKMWcygOoqRNhUYjKr2e5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430188434371-h2ucko9r90gdrsi8ngh6kn69obeki3en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
